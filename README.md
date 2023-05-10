@@ -2,6 +2,7 @@
 
 Aplicação para salvar e gerenciar seus links úteis.
 
+![Capa com a View da Aplicação](https://i.ibb.co/BTRPMNj/rocketnotes-cover.png)
 ## Descrição
 
 RocketNotes é uma aplicação ReactJS desenvolvida como parte do curso da Rocketseat. Ela permite que você salve e gerencie seus links úteis de maneira simples e intuitiva.
@@ -66,7 +67,7 @@ Siga as instruções abaixo para clonar e executar o RocketNotes em seu ambiente
     npm run dev
     ```
 
-8. Acesse a aplicação no seu navegador através da [URL: http://localhost:5173](URL: http://localhost:5173).
+8. Acesse a aplicação no seu navegador através da URL:[http://localhost:5173](URL:http://localhost:5173).
 
 ## Funcionalidades
 
