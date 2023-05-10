@@ -2,7 +2,7 @@
 
 Aplicação para salvar e gerenciar seus links úteis.
 
-![Capa com a View da Aplicação](https://i.ibb.co/BTRPMNj/rocketnotes-cover.png)
+![Capa](https://i.ibb.co/ZcCJDmK/rocketnotes-cover.png)
 ## Descrição
 
 RocketNotes é uma aplicação ReactJS desenvolvida como parte do curso da Rocketseat. Ela permite que você salve e gerencie seus links úteis de maneira simples e intuitiva.
