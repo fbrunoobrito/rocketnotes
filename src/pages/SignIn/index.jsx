@@ -14,7 +14,7 @@ export function SignIn() {
         <h1>Rocket Notes</h1>
         <p>Aplicação para salvar e gerenciar seus links úteis.</p>
         <h2>Faça Login</h2>
-        <Input placeholder="Email" type="text" icon={FiMail} />
+        <Input placeholder="Email" type="email" icon={FiMail} />
         <Input placeholder="Senha" type="password" icon={FiLock} />
         <Button title="Entrar" /> <Link to="/register">Criar Conta</Link>
       </Form>
